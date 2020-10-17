@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deolaj" alt="deolaj" /> </p>
 
-- 🌱 I’m currently learning **Gatsby & React Native**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my side projects are available at [deolaj.xyz](deolaj.xyz)
 
