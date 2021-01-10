@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 Some of my side projects are available on [deolaj.xyz](deolaj.xyz)
+- 👨‍💻 My featured and side projects are available on my [deolaj.vercel.app](portfolio)
 
 - 📝 I regulary write articles on Medium
 
