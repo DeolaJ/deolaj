@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deolaj" alt="deolaj" /> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently improving on my knowledge of testing - **Enzyme & Jest**
 
 - 👨‍💻 My featured and side projects are available on my [portfolio](https://deolaj.com)
 
