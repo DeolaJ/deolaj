@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Adeola</h1>
-<h3 align="center">Frontend developer from Lagos, Nigeria.</h3>
+<h3 align="center">Frontend Engineer, with 5 years of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deolaj" alt="deolaj" /> </p>
 
