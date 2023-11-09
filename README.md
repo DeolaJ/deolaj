@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Adeola</h1>
-<h3 align="center">Frontend Engineer, with 5 years of experience.</h3>
+<h3 align="center">Senior Frontend Engineer, with 5 years of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deolaj" alt="deolaj" /> </p>
 
-- 🌱 I’m currently learning more about **Enterprise Frontend applications** and **Design Systems**
+- 🌱 I’m open to new opportunities. I am currently building [**Neegma**](https://neegma.vercel.app) using **NextJS, Supabase, and OpenAI**
 
 - 👨‍💻 My featured and side projects are available on my [portfolio](https://deolaj.com)
 
