@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deolaj" alt="deolaj" /> </p>
 
-- 🌱 I’m open to new opportunities. I am currently building [**Neegma**](https://neegma.vercel.app) using **NextJS, Supabase, and OpenAI**
+- 🌱 I’m open to new opportunities. I am currently building [**Neegma**](https://www.tryneegma.com) using **NextJS, Supabase, and OpenAI**
 
 - 👨‍💻 My featured and side projects are available on my [portfolio](https://deolaj.com)
 
