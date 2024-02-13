@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deolaj" alt="deolaj" /> </p>
 
-- 🌱 I’m open to new opportunities. I am currently building [**Neegma**](https://www.tryneegma.com) using **NextJS, Supabase, and OpenAI**
+- 🌱 I’m open to new opportunities. I am currently building [**Neegma**](https://www.tryneegma.com) in my spare time using **NextJS, Supabase, and AI**
 
 - 👨‍💻 My featured and side projects are available on my [portfolio](https://deolaj.com)
 
-- 📝 I regulary write articles on Medium
+- 📝 I regulary write articles on [Medium](https://www.medium.com/@deolaj)
 
 - 📫 How to reach me **adeola.adeyemoj@gmail.com**
 
-- ⚡ Fun fact **I draw digitally on Procreate in my free time**
+- ⚡ Fun fact **I draw digitally on Procreate in my free time. Some of my drawings are featured on my [portfolio](https://deolaj.com/art)**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=deolaj&show_icons=true" alt="deolaj" />
 
