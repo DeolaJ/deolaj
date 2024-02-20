@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I draw digitally on Procreate in my free time. Some of my drawings are featured on my [portfolio](https://deolaj.com/art)**
 
 <p align="center">
-<a href="https://codepen.io/deolaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="deolaj" height="30" width="30" /></a>
-<a href="https://twitter.com/deo_joe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deo_joe" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/adeola-j-adeyemo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adeola-j-adeyemo" height="30" width="30" /></a>
-<a href="https://instagram.com/de.joe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="de.joe" height="30" width="30" /></a>
-<a href="https://medium.com/@deolaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deolaj" height="30" width="30" /></a>
+<a href="https://codepen.io/deolaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="deolaj" height="25" width="25" /></a>
+<a href="https://twitter.com/deo_joe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deo_joe" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/adeola-j-adeyemo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adeola-j-adeyemo" height="25" width="25" /></a>
+<a href="https://instagram.com/de.joe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="de.joe" height="25" width="25" /></a>
+<a href="https://medium.com/@deolaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deolaj" height="25" width="25" /></a>
 </p>
