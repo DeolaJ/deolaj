@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Adeola</h1>
-<h3 align="center">Senior Frontend Engineer, with 5 years of experience.</h3>
+<h3 align="center">Senior Frontend Engineer, with 5 years of experience. Currently in the United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deolaj" alt="deolaj" /> </p>
 
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://codepen.io/deolaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="deolaj" height="25" width="25" /></a>
-<a href="https://twitter.com/deo_joe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deo_joe" height="25" width="25" /></a>
-<a href="https://linkedin.com/in/adeola-j-adeyemo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adeola-j-adeyemo" height="25" width="25" /></a>
-<a href="https://instagram.com/de.joe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="de.joe" height="25" width="25" /></a>
+<a href="https://twitter.com/deo_joe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deo_joe" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/adeola-j-adeyemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeola-j-adeyemo" height="25" width="25" /></a>
+<a href="https://instagram.com/de.joe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="de.joe" height="25" width="25" /></a>
 <a href="https://medium.com/@deolaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deolaj" height="25" width="25" /></a>
 </p>
