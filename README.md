@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Adeola</h1>
-<h3 align="center">Senior Frontend Engineer, with over 7 years of experience. Currently in the United Kingdom</h3>
+<h3 align="center">Senior Frontend Engineer, with over 8 years of experience. Currently in the United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deolaj" alt="deolaj" /> </p>
 
